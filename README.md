@@ -43,7 +43,7 @@ The **EchoSphere** is a web application that fetches and displays news from vari
 ## Preview
 Here is a sample of what the News Aggregator app looks like:
 
-!LinkedIn Profile (https://www.linkedin.com/feed/update/urn:li:ugcPost:7244653704568561665/) 
+[LinkedIn Profile] (https://www.linkedin.com/feed/update/urn:li:ugcPost:7244653704568561665/) 
 
 ## Technologies Used
 - HTML5: For structuring the app layout.
