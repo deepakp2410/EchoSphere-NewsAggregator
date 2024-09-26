@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>EchoSphere</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>EchoSphere</h1>
+      <div class="search-bar">
+        <input type="text" id="search-input" placeholder="Search for news..." />
+        <button id="search-btn">Search</button>
+      </div>
+      <div class="categories">
+        <button data-category="business">Business</button>
+        <button data-category="entertainment">Entertainment</button>
+        <button data-category="health">Health</button>
+        <button data-category="science">Science</button>
+        <button data-category="sports">Sports</button>
+        <button data-category="technology">Technology</button>
+      </div>
+    </header>
+    <main>
+      <div id="news-container" class="news-container"></div>
+    </main>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
